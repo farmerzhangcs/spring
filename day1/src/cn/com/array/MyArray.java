@@ -24,5 +24,8 @@ public class MyArray {
 
         System.out.println(array[0].getName());
         System.out.println(array[0].getClass());
+
+        int []a = {1,2};
+        System.out.println(a[0]);
     }
 }
