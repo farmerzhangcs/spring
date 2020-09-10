@@ -6,7 +6,7 @@ public class test {
     public static void main(String[] args) {
         Mystatic.method();
 
-        System.out.println(Mystatic.num);
+       // System.out.println(Mystatic.num);
 
         low.show();
 
